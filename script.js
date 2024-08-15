@@ -65,6 +65,7 @@ commentInput.addEventListener('keydown', function(event) {
         // Call the function to add a new comment
         addComment();
     }
+    
 });
 
 // Initial comment count setup
