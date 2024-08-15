@@ -66,7 +66,6 @@ commentInput.addEventListener('keydown', function(event) {
         addComment();
     }
 });
-
 // Initial comment count setup
 document.addEventListener('DOMContentLoaded', function() {
     updateCommentCount();
